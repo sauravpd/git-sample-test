@@ -23,7 +23,9 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
-
+/**
+*TheInternetHeroku app test class
+*/
 public class TheInternetHerokuTest 
 {
 	public static WebDriver driver;

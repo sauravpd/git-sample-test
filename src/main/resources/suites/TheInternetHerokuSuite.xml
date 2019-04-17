@@ -5,5 +5,5 @@
     <classes>
       <class name="framework.TheInternetHerokuTest"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test>
+</suite>
